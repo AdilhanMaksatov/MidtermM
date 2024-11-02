@@ -37,9 +37,16 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
 
 2
 
+<<<<<<< HEAD
 3
  }
 
 2{
     one to tree
 }
+=======
+commit to dev-feature
+
+conflict 
+con
+>>>>>>> dev-feature
